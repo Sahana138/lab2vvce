@@ -1,2 +1,7 @@
 hello
+ HEAD
 master branch edit
+
+this is a feature branch
+feature branch con edit
+feature-branch
